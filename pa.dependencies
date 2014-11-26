@@ -1,56 +1,38 @@
 [
     {
         "remote":       "github",
-        "repository":   "CyanogenMod/android_kernel_sony_msm8974pro",
-        "target_path":  "kernel/sony/msm8974pro",
-        "revision":     "cm-11.0"
+        "repository":   "CyanogenMod/android_kernel_sony_msm8974",
+        "target_path":  "kernel/sony/msm8974",
+        "revision":     "cm-12.0"
     },
      {
         "remote":       "github",
         "repository":   "CyanogenMod/android_device_sony_msm8974-common",
         "target_path":  "device/sony/msm8974-common",
-        "revision":     "cm-11.0"
+        "revision":     "cm-12.0"
     },
     {
         "remote":       "github",
         "repository":   "AOSPA-legacy/android_device_sony_shinano-common",
         "target_path":  "device/sony/shinano-common",
-        "revision":     "kitkat"
+        "revision":     "lollipop"
     },
     {
         "remote":       "github",
         "repository":   "CyanogenMod/android_device_sony_common",
         "target_path":  "device/sony/common",
-        "revision":     "cm-11.0"
-    },
-    {
-        "remote":       "github",
-        "repository":   "AOSPA-legacy/android_device_sony_qcom-common",
-        "target_path":  "device/sony/qcom-common",
-        "revision":     "cm-11.0"
+        "revision":     "cm-12.0"
     },
     {
         "remote":       "github",
         "repository":   "CyanogenMod/android_device_qcom_common",
         "target_path":  "device/qcom/common",
-        "revision":     "cm-11.0"
-    },
-    {
-        "remote":       "github",
-        "repository":   "CyanogenMod/android_hardware_qcom_display-caf-new",
-         "target_path": "hardware/qcom/display-caf-new",
-        "revision":     "cm-11.0"
-    },
-    {
-        "remote":       "github",
-        "repository":   "CyanogenMod/android_hardware_qcom_media-caf-new",
-        "target_path":  "hardware/qcom/media-caf-new",
-        "revision":     "cm-11.0"
+        "revision":     "cm-12.0"
     },
     {
         "remote":       "github",
         "repository":   "TheMuppets/proprietary_vendor_sony",
         "target_path":  "vendor/sony",
-        "revision":     "cm-11.0"
+        "revision":     "cm-12.0"
     }
 ]
