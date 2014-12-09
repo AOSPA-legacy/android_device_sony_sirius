@@ -30,9 +30,6 @@ BOARD_HARDWARE_CLASS += device/sony/sirius/cmhw
 # Kernel properties
 TARGET_KERNEL_CONFIG := cm_shinano_sirius_defconfig
 
-# External apps on SD
-TARGET_EXTERNAL_APPS = sdcard1
-
 # Partition information
 BOARD_VOLD_MAX_PARTITIONS := 25
 BOARD_USERDATAIMAGE_PARTITION_SIZE := 12656242688 # 12656259072 - 16384
